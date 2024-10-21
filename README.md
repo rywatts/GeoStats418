@@ -547,16 +547,28 @@ While Moran’s I and Local Moran’s I (LISA) provided valuable insights, there
 
 ## References
 
-#>Anselin, L. (1995). Local Indicators of Spatial Association—LISA. Geographical Analysis, 27(2), 93-115. 
-#>Bivand, R., Pebesma, E., & Gómez-Rubio, V. (2013). Applied spatial data analysis with R, Second edition. Springer, NY. https://asdar-book.org/
-#>Cliff, A., & Ord, J. (1981). Spatial Processes: Models and Applications. Pion. 
-#>Dean Attali (2021). shinyjs: Easily Improve the User Experience of Your Shiny Apps in Seconds. R package version 2.1.0. https://CRAN.R-project.org/package=shinyjs
-#>Fotheringham, A. S., Yang, W., & Kang, W. (2017). Multiscale Geographically Weighted Regression (MGWR). Annals of the American Association of Geographers, 107(6), 1247-1265. 
-#>Geary, R. C. (1954). The Contiguity Ratio and Statistical Mapping. The Incorporated Statistician, 5(3), 115-145. 
-#>Getis, A., & Ord, J. K. (1992). The analysis of spatial association by use of distance statistics. Geographical Analysis, 24(3), 189-206. 
-#>Griffith, D. A. (2003). Spatial Autocorrelation and Spatial Filtering: Gaining Understanding Through Theory and Scientific Visualization. Springer Science & Business Media. 
-#>Hijmans, R.J. (2022). raster: Geographic Data Analysis and Modeling. R package version 3.5-15. https://CRAN.R-project.org/package=raster
-#>Khan, M.S. & Siddique, A.B. (2021). Spatial Analysis of Regional and Income Inequality in the United States. Economies 9(4), 159. 
-#>Meyer, D., Dimitriadou, E., Hornik, K., Weingessel, A., & Leisch, F. (2022). e1071: Misc Functions of the Department of Statistics, Probability Theory Group (Formerly: E1071), TU Wien. R package version 1.7-9. https://CRAN.R-project.org/package=e1071
-#>Tennekes, M. (2018). "tmap: Thematic Maps in R." Journal of Statistical Software, 84(6), 1-39. doi:10.18637/jss.v084.i061
-#>Tobler, W. R. (1970). A computer movie simulating urban growth in the Detroit region. Economic Geography, 46(sup1), 234-240.
+Anselin, L. (1995). Local Indicators of Spatial Association—LISA. Geographical Analysis, 27(2), 93-115. 
+
+Bivand, R., Pebesma, E., & Gómez-Rubio, V. (2013). Applied spatial data analysis with R, Second edition. Springer, NY. https://asdar-book.org/
+
+Cliff, A., & Ord, J. (1981). Spatial Processes: Models and Applications. Pion. 
+
+Dean Attali (2021). shinyjs: Easily Improve the User Experience of Your Shiny Apps in Seconds. R package version 2.1.0. https://CRAN.R-project.org/package=shinyjs
+
+Fotheringham, A. S., Yang, W., & Kang, W. (2017). Multiscale Geographically Weighted Regression (MGWR). Annals of the American Association of Geographers, 107(6), 1247-1265. 
+
+Geary, R. C. (1954). The Contiguity Ratio and Statistical Mapping. The Incorporated Statistician, 5(3), 115-145. 
+
+Getis, A., & Ord, J. K. (1992). The analysis of spatial association by use of distance statistics. Geographical Analysis, 24(3), 189-206. 
+
+Griffith, D. A. (2003). Spatial Autocorrelation and Spatial Filtering: Gaining Understanding Through Theory and Scientific Visualization. Springer Science & Business Media. 
+
+Hijmans, R.J. (2022). raster: Geographic Data Analysis and Modeling. R package version 3.5-15. https://CRAN.R-project.org/package=raster
+
+Khan, M.S. & Siddique, A.B. (2021). Spatial Analysis of Regional and Income Inequality in the United States. Economies 9(4), 159. 
+
+Meyer, D., Dimitriadou, E., Hornik, K., Weingessel, A., & Leisch, F. (2022). e1071: Misc Functions of the Department of Statistics, Probability Theory Group (Formerly: E1071), TU Wien. R package version 1.7-9. https://CRAN.R-project.org/package=e1071
+
+Tennekes, M. (2018). "tmap: Thematic Maps in R." Journal of Statistical Software, 84(6), 1-39. doi:10.18637/jss.v084.i061
+
+Tobler, W. R. (1970). A computer movie simulating urban growth in the Detroit region. Economic Geography, 46(sup1), 234-240.
